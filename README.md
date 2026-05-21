@@ -26,3 +26,5 @@
 | ✈️ [Air Passengers — Forecasting](link) | R + Python | ARIMA/SARIMA, time-series decomposition |
 
 ---
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jrudani21&theme=default)](https://git.io/streak-stats)

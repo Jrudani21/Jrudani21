@@ -2,7 +2,7 @@
 
 📍 Winnipeg · 🎓 B.Sc. Statistics / Mathematics  
 🔭 Currently building a portfolio of R + Python analyses in regression, GLMs, and time-series forecasting.
-📫 Reach me: Janak25rudani@icloud.com · https://www.linkedin.com/in/janakrudani21 
+📫 Reach me: Janak25rudani@icloud.com · [LinkedIn](https://www.linkedin.com/in/janakrudani21) 
 
 ---
 
@@ -27,4 +27,10 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jrudani21&theme=default)](https://git.io/streak-stats)
+### 🌱 Currently Learning
+- Advanced time series forecasting (ARIMA/SARIMA)
+- Python for data analysis (pandas, seaborn, statsmodels)
+- Building end-to-end data projects in R and Python
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/janakrudani21))

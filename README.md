@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Janak Rudani 👋 
 
-<!--
-**Jrudani21/Jrudani21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Winnipeg · 🎓 B.Sc. Statistics / Mathematics  
+🔭 Currently building a portfolio of R + Python analyses in regression, GLMs, and time-series forecasting.
+📫 Reach me: Janak25rudani@icloud.com · https://www.linkedin.com/in/janakrudani21 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Toolbelt
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-1f77b4)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+
+---
+
+### 📊 Featured Projects
+| Project | Tools | What it shows |
+|---|---|---|
+| 🐧 [Palmer Penguins — Linear Models & ANCOVA](link) | R, ggplot2 | Linear regression, one/two-way ANOVA, ANCOVA |
+| 📞 [Telco Customer Churn](link) | R + Python | Logistic regression, ROC/AUC, lift charts |
+| 🚲 [Bike-Share Demand (Poisson)](link) | R + Python | Count regression, GLMs, EDA |
+| ✈️ [Air Passengers — Forecasting](link) | R + Python | ARIMA/SARIMA, time-series decomposition |
+
+---
+
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Jrudani21&show_icons=true&theme=default)

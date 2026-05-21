@@ -26,6 +26,3 @@
 | ✈️ [Air Passengers — Forecasting](link) | R + Python | ARIMA/SARIMA, time-series decomposition |
 
 ---
-
-### 📈 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Jrudani21&show_icons=true&theme=default)

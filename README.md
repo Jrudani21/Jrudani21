@@ -1,7 +1,7 @@
 # Hi, I'm Janak Rudani 👋 
 
 📍 Winnipeg · 🎓 B.Sc. Statistics / Mathematics  
-🔭 Currently building a portfolio of R + Python analyses in regression, GLMs, and time-series forecasting.
+🔭 Trying to apply acdemics to the public datasets and comparing it for the accuracy with the existing models.
 📫 Reach me: Janak25rudani@icloud.com · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakrudani21)
 
 ---

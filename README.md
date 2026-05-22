@@ -2,7 +2,7 @@
 
 📍 Winnipeg · 🎓 B.Sc. Statistics / Mathematics  
 🔭 Currently building a portfolio of R + Python analyses in regression, GLMs, and time-series forecasting.
-📫 Reach me: Janak25rudani@icloud.com · [LinkedIn](https://www.linkedin.com/in/janakrudani21) 
+📫 Reach me: Janak25rudani@icloud.com · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakrudani21)
 
 ---
 

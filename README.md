@@ -20,10 +20,10 @@
 ### 📊 Featured Projects
 | Project | Tools | What it shows |
 |---|---|---|
-| 🐧 [Palmer Penguins — Linear Models & ANCOVA](link) | R, ggplot2 | Linear regression, one/two-way ANOVA, ANCOVA |
-| 📞 [Telco Customer Churn](link) | R + Python | Logistic regression, ROC/AUC, lift charts |
-| 🚲 [Bike-Share Demand (Poisson)](link) | R + Python | Count regression, GLMs, EDA |
-| ✈️ [Air Passengers — Forecasting](link) | R + Python | ARIMA/SARIMA, time-series decomposition |
+| 🐧 [Palmer Penguins — Linear Models & ANCOVA](https://github.com/Jrudani21/palmer-penguins-linear-models) | R, ggplot2 | Linear regression, one/two-way ANOVA, ANCOVA |
+| 📞 [Telco Customer Churn](https://github.com/Jrudani21/telco-churn-logistic-regression) | R + Python | Logistic regression, ROC/AUC, lift charts |
+| 🚲 [Bike-Share Demand (Poisson)](https://github.com/Jrudani21/bike-share-demand-count-regression) | R + Python | Count regression, GLMs, EDA |
+| ✈️ [Air Passengers — Forecasting](https://github.com/Jrudani21/air-passengers-timeseries) | R + Python | ARIMA/SARIMA, time-series decomposition |
 
 ---
 

@@ -33,4 +33,4 @@
 - Building end-to-end data projects in R and Python
 
 ### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/janakrudani21))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakrudani21)

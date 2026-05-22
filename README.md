@@ -13,7 +13,7 @@
 [![ggplot2](https://img.shields.io/badge/ggplot2-1f77b4)](https://ggplot2.tidyverse.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)](https://www.w3schools.com/sql/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.w3schools.com/sql/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)](https://www.datacamp.com/tracks/data-analyst-in-tableau)
 
 ---
 

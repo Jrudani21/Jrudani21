@@ -1,7 +1,7 @@
 # Hi, I'm Janak Rudani 👋
 
 📍 Winnipeg · 🎓 B.Sc. Statistics & Mathematics  
-🔭 Applying statistical methods and data tools to real-world public datasets — from fraud detection to time-series forecasting.  
+🔭 Applying statistical methods and data tools to real-world public datasets   from fraud detection to time-series forecasting.  
 📫 Reach me: Janak25rudani@icloud.com · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakrudani21)
 
 ---
@@ -21,11 +21,11 @@
 ### 📊 Featured Projects
 | Project | Tools | What it shows |
 |---|---|---|
-| 🏥 [Medicare Cross-Country Fraud Detector](https://github.com/Jrudani21/medicare-fraud-detector) | SQL · Python · Streamlit · Plotly | Detects providers billing Medicare from US + foreign country simultaneously — CMS OIG phantom billing pattern. Self-join date-overlap queries, risk scoring (HIGH/MEDIUM/LOW), interactive 5-tab dashboard |
-| 🐧 [Palmer Penguins — Linear Models & ANCOVA](https://github.com/Jrudani21/palmer-penguins-linear-models) | R · ggplot2 | Linear regression, one/two-way ANOVA, ANCOVA |
+| 🏥 [Medicare Cross-Country Fraud Detector](https://github.com/Jrudani21/medicare-fraud-detector) | SQL · Python · Streamlit · Plotly | Detects providers billing Medicare from US + foreign country simultaneously   CMS OIG phantom billing pattern. Self-join date-overlap queries, risk scoring (HIGH/MEDIUM/LOW), interactive 5-tab dashboard |
+| 🐧 [Palmer Penguins   Linear Models & ANCOVA](https://github.com/Jrudani21/palmer-penguins-linear-models) | R · ggplot2 | Linear regression, one/two-way ANOVA, ANCOVA |
 | 📞 [Telco Customer Churn](https://github.com/Jrudani21/telco-churn-logistic-regression) | R · Python | Logistic regression, ROC/AUC, lift charts |
 | 🚲 [Bike-Share Demand (Poisson)](https://github.com/Jrudani21/bike-share-demand-count-regression) | R · Python | Count regression, GLMs, EDA |
-| ✈️ [Air Passengers — Forecasting](https://github.com/Jrudani21/air-passengers-timeseries) | R · Python | ARIMA/SARIMA, time-series decomposition |
+| ✈️ [Air Passengers   Forecasting](https://github.com/Jrudani21/air-passengers-timeseries) | R · Python | ARIMA/SARIMA, time-series decomposition |
 
 ---
 

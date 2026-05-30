@@ -1,7 +1,7 @@
 # Hi, I'm Janak Rudani 👋
 
 📍 Winnipeg · 🎓 B.Sc. Statistics & Mathematics  
-🔭 Applying statistical methods and data tools to real-world public datasets   from fraud detection to time-series forecasting.  
+🔭 Applying statistical methods and data tools to real-world public datasets from fraud detection to time-series forecasting.  
 📫 Reach me: Janak25rudani@icloud.com · [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakrudani21)
 
 ---

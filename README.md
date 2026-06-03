@@ -21,6 +21,7 @@
 ### 📊 Featured Projects
 | Project | Tools | What it shows |
 |---|---|---|
+| 🦠 [COVID-19 Global Dashboard](https://github.com/Jrudani21/covid-dashboard) | Python · Streamlit · Plotly | Interactive global COVID-19 tracker — country-level case/death/recovery trends, choropleth maps, and time-series visualizations built on public JHU/WHO datasets |
 | 🏥 [Medicare Cross-Country Fraud Detector](https://github.com/Jrudani21/medicare-fraud-detector) | SQL · Python · Streamlit · Plotly | Detects providers billing Medicare from US + foreign country simultaneously — CMS OIG phantom billing pattern. Self-join date-overlap queries, risk scoring (HIGH/MEDIUM/LOW), interactive 5-tab dashboard |
 | 🐧 [Palmer Penguins — Linear Models & ANCOVA](https://github.com/Jrudani21/palmer-penguins-linear-models) | R · ggplot2 | Linear regression, one/two-way ANOVA, ANCOVA |
 | 📞 [Telco Customer Churn](https://github.com/Jrudani21/telco-churn-logistic-regression) | R · Python | Logistic regression, ROC/AUC, lift charts |

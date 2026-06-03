@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  covid-dashboard:
+    build: .
+    container_name: covid-dashboard
+    ports:
+      - "8501:8501"
+    restart: unless-stopped

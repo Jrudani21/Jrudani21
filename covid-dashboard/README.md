@@ -10,21 +10,22 @@ Interactive Streamlit dashboard powered by [Our World in Data](https://ourworldi
 - Country snapshot table with case-fatality % and vaccination rate
 - Sidebar filters: continent, country, and date range
 
-## Quick Start (Docker)
+## Quick Start (Docker — pre-built image)
+
+The image is automatically built and pushed to GitHub Container Registry on every merge to `main`.
 
 ```bash
-# Build and run
-docker compose up --build
+# Pull and run (no build step needed)
+docker run -p 8501:8501 ghcr.io/jrudani21/covid-dashboard:latest
 
 # Open in browser
 open http://localhost:8501
 ```
 
-### Without Compose
+### With Docker Compose (build locally)
 
 ```bash
-docker build -t covid-dashboard .
-docker run -p 8501:8501 covid-dashboard
+docker compose up --build
 ```
 
 ## Local Development

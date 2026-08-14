@@ -17,7 +17,7 @@ I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janakrudani21)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF3131?logo=github&logoColor=white)](https://jrudani21.github.io)
-[![Site](https://img.shields.io/badge/Jurassic%20Park-0F5132?logo=github&logoColor=white)](https://jrudani21.github.io/ken-fleet/)
+[![Site](https://img.shields.io/badge/Jurassic%20Park-0F5132?logo=github&logoColor=white)](https://jrudani21.github.io/jurassic-park/)
 
 </div>
 
@@ -27,11 +27,9 @@ I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on 
 
 | Project | What it is | Links |
 |---|---|---|
-| 🦖 **JURASSIC PARK** | Live interactive dashboard for the AI fleet - species catalog (8 dino = 8 LLM tiers), park console terminal, budget ledger, DNA-bank cache. Nightly refresh. | [site](https://jrudani21.github.io/ken-fleet/) · [repo](https://github.com/Jrudani21/ken-fleet) |
-| 🤖 **500-AI-Agents-Projects** | The fleet itself: 34 scheduled bots, 17 on-demand agents, shared zero-token LLM client, semantic cache, supervisor, circuit breakers | [repo](https://github.com/Jrudani21/500-AI-Agents-Projects) |
+| 🦖 **JURASSIC PARK** | The whole fleet in one repo: 34 scheduled bots + 17 on-demand agents, shared zero-token LLM client (8 model tiers), semantic cache, supervisor, circuit breakers, and the live dashboard - species catalog, park console terminal, budget ledger, DNA-bank cache. Nightly refresh. | [site](https://jrudani21.github.io/jurassic-park/) · [repo](https://github.com/Jrudani21/jurassic-park) |
 | ⛅ **Weather Arbitrage** | Weather-derivative trading bot: NOAA degree-day deviations → arbitrage windows → API orders | [repo](https://github.com/Jrudani21/weather-arb) |
 | 🐙 **Claude Octopus** | Up to 8 AI models on every task - surface blindspots before you ship | [repo](https://github.com/Jrudani21/claude-octopus) |
-| 💼 **LinkedIn MCP Server** | MCP server: Claude + any agent can read/write LinkedIn profiles, jobs, messages | [repo](https://github.com/Jrudani21/linkedin-mcp-server) |
 
 <br>
 

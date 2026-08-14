@@ -29,7 +29,6 @@ I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on 
 |---|---|---|
 | 🦖 **JURASSIC PARK** | The whole fleet in one repo: 34 scheduled bots + 17 on-demand agents, shared zero-token LLM client (8 model tiers), semantic cache, supervisor, circuit breakers, and the live dashboard - species catalog, park console terminal, budget ledger, DNA-bank cache. Nightly refresh. | [site](https://jrudani21.github.io/jurassic-park/) · [repo](https://github.com/Jrudani21/jurassic-park) |
 | ⛅ **Weather Arbitrage** | Weather-derivative trading bot: NOAA degree-day deviations → arbitrage windows → API orders | [repo](https://github.com/Jrudani21/weather-arb) |
-| 🐙 **Claude Octopus** | Up to 8 AI models on every task - surface blindspots before you ship | [repo](https://github.com/Jrudani21/claude-octopus) |
 
 <br>
 

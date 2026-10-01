@@ -5,13 +5,13 @@
 -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=22&duration=3200&pause=700&color=FF3131&center=true&vCenter=true&width=640&lines=JANAK+RUDANI;STATISTICIAN+%E2%9C%A6+AI+FLEET+OPERATOR;34+BOTS.+%240.004.+ONE+PC.;JURASSIC+PARK+%E2%9C%A6+ISLA+NUBLAR" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=22&duration=3200&pause=700&color=FF3131&center=true&vCenter=true&width=640&lines=JANAK+RUDANI;STATISTICIAN+%E2%9C%A6+AI+FLEET+OPERATOR;34+BOTS.+%2414.56+IN+6+WEEKS.;JURASSIC+PARK+%E2%9C%A6+ISLA+NUBLAR" alt="typing intro" />
 
 <br>
 
 **Winnipeg** · B.Sc. Statistics & Mathematics
 
-I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on a shared zero-token LLM client - 8 model tiers, semantic cache, supervisor, circuit breakers. The whole fleet has cost **$0.004** so far. Themed as Jurassic Park, obviously.
+I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on a shared zero-token LLM client - 8 model tiers, semantic cache, supervisor, circuit breakers. The fleet has cost **$14.56 in six weeks**, with the free GPU and cloud tiers at exactly **$0.00** - and every call lands in a cost ledger the dashboard rebuilds nightly from the authoritative usage table. Themed as Jurassic Park, obviously.
 
 <br>
 
@@ -63,7 +63,7 @@ I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on 
 ## 🌱 Currently Working On
 
 - Scaling the fleet: new crews, better caching (semantic L2, prefix L3)
-- Keeping it all at **$0** - free tiers, local models, cache-first
+- Keeping the fleet at **$0** - free tiers, local models, cache-first
 - Weather arbitrage: more markets, tighter detection
 - Data projects with SQL + Python + dashboards
 

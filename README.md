@@ -11,7 +11,7 @@
 
 **Winnipeg** · B.Sc. Statistics & Mathematics
 
-I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on a shared zero-token LLM client - 8 model tiers, semantic cache, supervisor, circuit breakers. The fleet has cost **$14.56 in six weeks**, with the free GPU and cloud tiers at exactly **$0.00** - and every call lands in a cost ledger the dashboard rebuilds nightly from the authoritative usage table. Themed as Jurassic Park, obviously.
+I build AI agents that run 24/7. **34 scheduled bots and 17 on-demand agents** share one zero-token LLM client with 8 model tiers, a semantic cache, a supervisor and circuit breakers. The fleet cost **$14.56 in six weeks**, and the free GPU and cloud tiers cost exactly **$0.00**. Every call goes into a cost ledger that the dashboard rebuilds nightly from the authoritative usage table. The theme is Jurassic Park.
 
 <br>
 
@@ -38,7 +38,7 @@ I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on 
 
 | Project | What it is | Links |
 |---|---|---|
-| 🦖 **JURASSIC PARK** | The whole fleet in one repo: 34 scheduled bots + 17 on-demand agents, shared zero-token LLM client (8 model tiers), semantic cache, supervisor, circuit breakers, and the live dashboard - species catalog, park console terminal, budget ledger, DNA-bank cache. Nightly refresh. | [site](https://jrudani21.github.io/jurassic-park/) · [repo](https://github.com/Jrudani21/jurassic-park) |
+| 🦖 **JURASSIC PARK** | The whole fleet in one repo: 34 scheduled bots, 17 on-demand agents, a shared zero-token LLM client (8 model tiers), semantic cache, supervisor and circuit breakers. It includes the live dashboard (species catalog, park console terminal, budget ledger, DNA-bank cache), which refreshes nightly. | [site](https://jrudani21.github.io/jurassic-park/) · [repo](https://github.com/Jrudani21/jurassic-park) |
 
 <br>
 
@@ -72,9 +72,8 @@ I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on 
 
 ## 🌱 Currently Working On
 
-- Scaling the fleet: new crews, better caching (semantic L2, prefix L3)
-- Keeping the fleet at **$0** - free tiers, local models, cache-first
-- Weather arbitrage: more markets, tighter detection
+- Scaling the fleet: new crews and better caching (semantic L2, prefix L3)
+- Keeping the fleet at **$0** with free tiers, local models and a cache-first design
 - Data projects with SQL + Python + dashboards
 
 ---

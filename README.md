@@ -5,7 +5,7 @@
 -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=22&duration=3200&pause=700&color=FF3131&center=true&vCenter=true&width=640&lines=JANAK+RUDANI;STATISTICIAN+%E2%9C%A6+AI+FLEET+OPERATOR;34+BOTS.+%2414.56+IN+6+WEEKS.;JURASSIC+PARK+%E2%9C%A6+ISLA+NUBLAR" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Unbounded&size=22&duration=3200&pause=700&color=FF3131&center=true&vCenter=true&width=640&lines=JANAK+RUDANI;DATA+ANALYST+%E2%9C%A6+AI+AGENT+TOOLING;34+BOTS.+%2414.56+IN+6+WEEKS.;JURASSIC+PARK+%E2%9C%A6+ISLA+NUBLAR" alt="typing intro" />
 
 <br>
 
@@ -23,12 +23,22 @@ I build AI agents that run 24/7. **34 scheduled bots + 17 on-demand agents** on 
 
 <br>
 
+## ⭐ Start here
+
+| Project | What it is |
+|---|---|
+| 🛡️ [Sure?](https://github.com/Jrudani21/sure) | Plain-language safety cards for Claude Code: explains a risky command before you approve it. MIT, 1300+ tests. |
+| 🧪 [escalation-bench](https://github.com/Jrudani21/escalation-bench) | Experiment on when a free model needs a critic. Hidden-test scoring, [case study](https://jrudani21.github.io/case-study-escalation.html). |
+| 🎭 [nl-playwright-gen](https://github.com/Jrudani21/nl-playwright-gen) | Plain-English requirement to a real Playwright test, with a guard against fake passes. |
+| 📦 [delivery-gate](https://github.com/Jrudani21/delivery-gate) | Checks a data delivery against the order that was paid for. |
+
+<br>
+
 ## 🏗️ The Fleet
 
 | Project | What it is | Links |
 |---|---|---|
 | 🦖 **JURASSIC PARK** | The whole fleet in one repo: 34 scheduled bots + 17 on-demand agents, shared zero-token LLM client (8 model tiers), semantic cache, supervisor, circuit breakers, and the live dashboard - species catalog, park console terminal, budget ledger, DNA-bank cache. Nightly refresh. | [site](https://jrudani21.github.io/jurassic-park/) · [repo](https://github.com/Jrudani21/jurassic-park) |
-| ⛅ **Weather Arbitrage** | Weather-derivative trading bot: NOAA degree-day deviations → arbitrage windows → API orders | [repo](https://github.com/Jrudani21/weather-arb) |
 
 <br>
 
